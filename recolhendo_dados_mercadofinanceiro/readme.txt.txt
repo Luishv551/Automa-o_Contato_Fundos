@@ -1,0 +1,4 @@
+Esse mini projeto foi criado com foco de treinar minha habilidade de automatizar tarefas e utilizar a biblioteca request, aplicando a área que quero atuar, o mercado financeiro, esse projeto pode ser utilizado pra captar informações de documentos de empresas, fundos e bancos, a depender do objetivo é possível alterar a expressão reguçar e encontrar indicadores desejados em um documento contábil por exemplo.
+
+Para que o código funcione é necessário que a biblioteca esteja instalada, uma vez instalada é só ir ao site ou documento desejado, selecionar tudo através do CTRL A, copiar tudo com CTRL C e rodar o programa, ele vai buscar através de expressões regulares e retornar todos os numeros de contato e emails da página, não importa o quão grande seja o documento o código vai coletar tudo.
+
